@@ -10,7 +10,7 @@ Ver noticias completas haciendo clic en el botón correspondiente en cada tarjet
 
 ## 3. Despliegue
 
-La aplicación ColorPalette está desplegada y disponible en: 
+La aplicación está desplegada y disponible en: 
 https://webNoticias-1112.netlify.app/
 
 ## 4. Tecnologías Utilizadas
